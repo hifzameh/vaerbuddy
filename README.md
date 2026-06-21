@@ -1,13 +1,3 @@
-## Team members
-Halvor Njåsad  
-Ingrid Ljosland Waale  
-Sander Rasmussen  
-Hifza Mehmood  
-Uma Shivali Kumar  
-Mila Toneff  
-
-
-
 ## README
 
 Brukerdokumentasjonen, Produktokumentasjonen og Prosessdokumentasjonen ligger i Rapport filen:[IN2000 - Rapport.pdf](https://github.uio.no/IN2000-V24/team-24/files/383/IN2000.-.Rapport.pdf)
